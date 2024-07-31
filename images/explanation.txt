@@ -1,0 +1,5 @@
+Probability formulas are used to determine the likelihood of events occurring. Here are some basic and important probability formulas:
+
+1. Probability of a Single Event
+
+formula = number of favorable outcomes / total number of possible outcomes
